@@ -27,10 +27,10 @@ title: Fadli Nurhasan
 email: fadli.nurhasan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   notes from my daily activities.
-baseurl: "/fadlinurhasan" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://fadlinurhasan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: fadlinurhasan
+github_username:  fadlinurhasan
 
 # Build settings
 markdown: kramdown
