@@ -71,28 +71,28 @@ jekyll-archives:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: fadlinurhasan
+    url: https://twitter.com/fadlinurhasan
     desc: Follow me on Twitter
     share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: fadlinurhasan
     url:
     desc: Friend me on Facebook
     share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: fadlinurhasan
     url: https://github.com/fadlinurhasan
     desc: Fork me on GitHub
     share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: Fadli Nurhasan
     url: https://www.linkedin.com/in/muhammad-fadli-nurhasan-08a2b9166/
     desc: Connect with me on LinkedIn
     share: true
